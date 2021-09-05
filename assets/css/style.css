@@ -1303,10 +1303,13 @@ h6 {
 }
 
 #buy-tickets .card .card-price {
-  font-size: 48px;
+  font-size: 45px;
   margin: 0;
 }
-
+.card-price-text {
+  font-size: 24px;
+  margin: 0;
+}
 #buy-tickets .card ul li {
   margin-bottom: 20px;
 }
