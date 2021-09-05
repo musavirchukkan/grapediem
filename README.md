@@ -1,2 +1,3 @@
 # grapediem
-ieee sb mesce cs socity annual event
+
+IEEE SB MESCE CS Society Annual Event
