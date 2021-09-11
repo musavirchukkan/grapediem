@@ -1351,6 +1351,24 @@ h6 {
   background-color: #fa1377;
 }
 
+/*--___________________________________
+workshop
+___________________*/
+
+#hotels .container .btn {
+  font-size: 15px;
+  border-radius: 50px;
+  padding: 10px 40px;
+  transition: all 0.2s;
+  background-color: #fa1377;
+  border: 0;
+  color: #fff;
+}
+
+#hotels .container .btn:hover {
+  background-color: #fa1377;
+}
+
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
